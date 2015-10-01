@@ -1,0 +1,260 @@
+# この viminfo ファイルは Vim 7.4 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最後の 検索パターン:
+~MSle0~/syntax
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:q
+:w
+:wq
+:q!
+:!git config --list
+::w
+:setl ff=unix
+::q
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+?/syntax
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+"1	LINE	0
+	hostname=
+"2	CHAR	0
+	export PS1='\[\e[1;32m\]\u@\h:\w${text}$\[\e[m\] '
+"3	LINE	0
+		そして、変更をロードします。
+"4	LINE	0
+		ignorecase = true
+"5	LINE	0
+		logallrefupdates = true
+"6	LINE	0
+	[core]
+"7	LINE	0
+		bare = false
+"8	LINE	0
+		filemode = true
+"9	LINE	0
+		repositoryformatversion = 0
+""-	CHAR	0
+	 
+
+# ファイルマーク:
+'0  8  8  ~/dotfiles/install.sh
+'1  205  30  ~/.bashrc
+'2  204  0  ~/.bashrc
+'3  207  11  ~/.bashrc
+'4  209  21  ~/.bashrc
+'5  44  3  ~/.bash_profile
+'6  1  0  ~/.gitconfig
+'7  1  0  ~/dotfiles/.git/config
+'8  1  26  ~/.gitconfig
+'9  6  1  ~/dotfiles/.git/config
+
+# ジャンプリスト (新しいものが先):
+-'  8  8  ~/dotfiles/install.sh
+-'  6  0  ~/dotfiles/install.sh
+-'  1  0  ~/dotfiles/install.sh
+-'  205  30  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  204  0  ~/.bashrc
+-'  2  0  ~/.bashrc
+-'  207  11  ~/.bashrc
+-'  209  21  ~/.bashrc
+-'  44  3  ~/.bash_profile
+-'  1  0  ~/.bash_profile
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/dotfiles/.git/config
+-'  6  1  ~/dotfiles/.git/config
+-'  7  13  ~/dotfiles/.git/config
+-'  1  0  ~/.vimrc
+-'  4  0  ~/.vimrc
+-'  6  0  ~/.vimrc
+-'  8  18  ~/.vimrc
+-'  9  13  ~/.vimrc
+-'  1  0  ~/a
+-'  1  0  ~/dotfiles/_vimrc
+-'  62  0  ~/dotfiles/_vimrc
+-'  8  0  ~/dotfiles/_vimrc
+-'  58  0  ~/dotfiles/_vimrc
+-'  4  18  ~/dotfiles/_vimrc
+-'  201  0  ~/.bashrc
+-'  2  9  ~/.vimrc
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+-'  1  0  ~/.vim
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/dotfiles/install.sh
+	"	8	8
+	^	6	1
+	.	6	0
+	+	9	7
+	+	4	0
+	+	6	0
+	+	5	0
+	+	6	0
+	+	8	0
+	+	9	0
+	+	8	0
+	+	6	0
+	+	5	0
+	+	6	0
+
+> ~/.bashrc
+	"	205	30
+	^	205	31
+	.	205	30
+	+	205	50
+	+	210	0
+	+	209	0
+	+	208	0
+	+	206	39
+	+	209	32
+	+	207	11
+	+	209	21
+	+	205	30
+	+	205	0
+	+	203	14
+	+	204	22
+	+	205	30
+
+> ~/.bash_profile
+	"	44	3
+	.	45	0
+	+	45	0
+
+> ~/.gitconfig
+	"	1	0
+	.	1	0
+	+	1	28
+	+	1	9
+	+	1	10
+	+	1	15
+	+	1	26
+	+	1	22
+	+	1	0
+
+> ~/dotfiles/.git/config
+	"	1	0
+	.	7	0
+	+	7	29
+	+	7	12
+	+	7	0
+
+> ~/.vimrc
+	"	1	0
+	^	4	9
+	.	4	8
+	+	4	9
+	+	8	46
+	+	10	0
+	+	9	13
+	+	8	18
+	+	4	8
+
+> ~/a
+	"	1	0
+
+> ~/dotfiles/_vimrc
+	"	1	0
+	.	63	0
+	+	1	0
+	+	4	10
+	+	8	22
+	+	10	9
+	+	14	13
+	+	16	8
+	+	18	67
+	+	63	0
+	+	22	10
+	+	40	11
+	+	50	13
+	+	53	22
+	+	58	29
+	+	62	62
+	+	63	0
+
+> ~/.vim
+	"	1	0
