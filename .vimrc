@@ -35,7 +35,7 @@ set incsearch
 " コマンド、検索パターンを10000個まで履歴に残す
 set history=10000
 " マウスモード有効
-set mouse=a
+"set mouse=a
 " xtermとscreen対応
 set ttymouse=xterm2
 " コマンドを画面最下部に表示する
