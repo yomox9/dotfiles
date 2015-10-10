@@ -1,3 +1,7 @@
 [user]
 	name = yomox9
 	email = yomox9@gmail.com
+[color]
+	ui = true
+[push]
+	default = simple
