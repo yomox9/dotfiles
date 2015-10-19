@@ -228,6 +228,6 @@ else
 fi
 
 #git pull
-( pushd ~/dotfiles && git pull )&
-( pushd ~/y9tool && git pull )&
+( pushd ~/dotfiles && git pull && gitpush )&
+( pushd ~/y9tool && git pull && gitpush )&
 
