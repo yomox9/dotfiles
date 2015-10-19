@@ -8,8 +8,9 @@ do
 
 	echo "$f"
 	if [ -e ~/"$f" ] || [ -h ~/"$f" ]; then
-		mkdir -p ~/bak/`date +%y%m%d_%H%M%S`
-		mv ~/"$f" ~/bak/`date +%y%m%d_%H%M%S`
+		datetime=`date +%Y%m%d_%H%M%S`
+		mkdir -p ~/bak/$datetime
+		mv ~/"$f" ~/bak/$datetime
 	fi
 	ln -s ~/dotfiles/"$f" ~/"$f"
 done
