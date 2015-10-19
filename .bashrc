@@ -227,3 +227,7 @@ else
 	ssh-add
 fi
 
+#git pull
+( pushd ~/dotfiles && git pull )&
+( pushd ~/y9tool && git pull )&
+
