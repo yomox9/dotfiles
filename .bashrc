@@ -200,13 +200,18 @@ export LANG=ja_JP.utf8
 #alias ls='ls --color'
 alias ll='ls -lF'
 alias la='ls -laF'
+alias lt='ls -ltr'
 alias vi='vim'
+alias gitrm='git rm -r --cached'
+
+#prompt
 hn=`hostname|cut -c 1-5`
 export PS1="\[\e[0;32m\][\u@$hn:\t\w]\$\[\e[00m\]"
 if [ -n "$SSH_CLIENT" ]; then text="ssh"
 else text=""
 fi
 export PS1="$PS1$text\[\e[m\] "
+
 # PATH
 PATH=$PATH:~/y9tool
 export PATH
