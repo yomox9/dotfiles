@@ -1,8 +1,12 @@
 set nocompatible
 set number
 set autoindent smartindent
+set list
 syntax on
-" エンコード
+
+" tab stop
+set tabstop=2
+" " エンコード
 set encoding=utf8
 " ファイルエンコード
 set fileencodings=iso-2022-jp,euc-jp,sjis,utf-8
@@ -17,7 +21,7 @@ set showmatch
 " ウィンドウの幅より長い行は折り返され、次の行に続けて表示される
 set wrap
 " 不可視文字を表示
-set listchars=tab:»-,trail:-,extends:»,precedes:«,nbsp:%,eol:↲
+set listchars=tab:>-,trail:_,extends:_,precedes:_,nbsp:_,eol:_
 " 補完の際の大文字小文字の区別しない
 set infercase
 " 変更中のファイルでも、保存しないで他のファイルを表示
