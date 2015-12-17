@@ -203,6 +203,7 @@ alias la='ls -laF'
 alias lt='ls -ltr'
 alias vi='vim'
 alias gitrm='git rm -r --cached'
+alias dus='du -s *'
 
 #prompt
 hn=`hostname|cut -c 1-5`
@@ -232,3 +233,5 @@ else
 	ssh-add
 fi
 
+srcds_rcon_pass=bebebe
+export srcds_rcon_pass

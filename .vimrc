@@ -21,7 +21,7 @@ set showmatch
 " ウィンドウの幅より長い行は折り返され、次の行に続けて表示される
 set wrap
 " 不可視文字を表示
-set listchars=tab:>-,trail:_,extends:_,precedes:_,nbsp:_,eol:_
+"set listchars=tab:>-,trail:_,extends:_,precedes:_,nbsp:_,eol:_
 " 補完の際の大文字小文字の区別しない
 set infercase
 " 変更中のファイルでも、保存しないで他のファイルを表示
