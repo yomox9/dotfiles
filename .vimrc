@@ -1,11 +1,11 @@
 set nocompatible
 set number
 set autoindent smartindent
-set list
+"set list
 syntax on
 
 " tab stop
-set tabstop=2
+set tabstop=4
 " " エンコード
 set encoding=utf8
 " ファイルエンコード
