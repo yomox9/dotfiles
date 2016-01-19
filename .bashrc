@@ -233,5 +233,5 @@ else
 	ssh-add
 fi
 
-srcds_rcon_pass=bebebe
+srcds_rcon_pass=rerere
 export srcds_rcon_pass
