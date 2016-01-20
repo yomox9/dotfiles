@@ -232,3 +232,8 @@ else
 	ssh-add
 fi
 
+if [ "`hostname`" == "ip-172-31-19-247.ap-northeast-1.compute.internal" ];then
+	cat dotfiles/ec2
+elif [ "`hostname`" == "GCE" ];then
+	cat dotfiles/gce
+fi

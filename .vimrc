@@ -1,6 +1,6 @@
 set nocompatible
 set number
-set autoindent smartindent
+"set autoindent smartindent
 set list
 syntax on
 
