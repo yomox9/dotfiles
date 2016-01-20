@@ -1,0 +1,1 @@
+/home/nmrihserver/y9tool/gitpush.sh
