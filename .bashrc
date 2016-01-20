@@ -233,13 +233,11 @@ else
 	ssh-add
 fi
 
-<<<<<<< HEAD
 if [ "`hostname`" == "ip-172-31-19-247.ap-northeast-1.compute.internal" ];then
 	cat dotfiles/ec2
 elif [ "`hostname`" == "GCE" ];then
 	cat dotfiles/gce
 fi
-=======
+
 srcds_rcon_pass=rerere
 export srcds_rcon_pass
->>>>>>> 747d3253f4fc6ea93aa6b08537978864c1390af9
