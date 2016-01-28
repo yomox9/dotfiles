@@ -1,12 +1,7 @@
 set nocompatible
 set number
-<<<<<<< HEAD
-"set autoindent smartindent
-set list
-=======
 set autoindent smartindent
 "set list
->>>>>>> 747d3253f4fc6ea93aa6b08537978864c1390af9
 syntax on
 
 " tab stop
