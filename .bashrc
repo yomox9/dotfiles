@@ -227,12 +227,6 @@ if [ $? == 2 ] ; then
 	source ~/.ssh-agent-info
 fi
 
-if ssh-add -l >&/dev/null ; then
-	echo "ssh-agent: Identity is already stored."
-else
-	ssh-add
-fi
-
 if [ "`hostname`" == "ip-172-31-19-247.ap-northeast-1.compute.internal" ];then
 	cat dotfiles/ec2
 elif [ "`hostname`" == "GCE" ];then
