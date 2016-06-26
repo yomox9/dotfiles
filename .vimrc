@@ -1,5 +1,5 @@
 set nocompatible
-set number
+"set number
 set autoindent smartindent
 "set list
 syntax on
